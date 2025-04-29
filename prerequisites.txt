@@ -1,0 +1,6 @@
+# What you need:
+
+1) Python, of course.
+2) UV: https://docs.astral.sh/uv/getting-started/installation/ - you don't really need it per se, but friends don't let friends use requirements.txt
+3) Be able to clone 
+4) Clone this repository (https://github.com/ergodic-ai/odsc2025) and install it, instructions will be given in the readme.

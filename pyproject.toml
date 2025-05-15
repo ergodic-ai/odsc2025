@@ -7,7 +7,7 @@ name = "ergodic_cd"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
     "networkx>=3.4.2",
     "numpy>=2.2.5",

@@ -23,5 +23,7 @@ dev = [
     "ipykernel>=6.29.5",
 ]
 
-[tool.setuptools]
-packages = ["ergodic_cd"]
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ergodic_cd*"]
+namespaces = false

@@ -1,3 +1,3 @@
-from .base import BaseOracle
+from .base import BaseOracle, linear
 
-__all__ = ["BaseOracle"]
+__all__ = ["BaseOracle", "linear"]

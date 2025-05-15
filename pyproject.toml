@@ -25,5 +25,5 @@ dev = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["ergodic_cd*"]
+include = ["ergodic_cd", "ergodic_cd.*", "ergodic_cd.oracles", "ergodic_cd.search"]
 namespaces = false

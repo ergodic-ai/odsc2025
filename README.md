@@ -12,4 +12,7 @@ There are 3 core notebooks, just open and run:
 
 [3 - Causal Discovery](https://colab.research.google.com/drive/1XDjBLoGne_392O9Fvxe4_4bti_WjOSKP?usp=sharing)
 
+[Slides](https://docs.google.com/presentation/d/1NEBi568oSgTPIUAu7oG1MjLxLC1ocT1aix-N_L05j8Y/edit?usp=sharing)
+
 If you like what you see here and want to learn more, we kindly invite you to fill-in a small form and we'll reach out once we have more to share: [link](https://forms.gle/YWrj7WEepHDjTYJRA)
+

@@ -1,6 +1,6 @@
 # ODSC 2025
 
-Content for ODSC East 2025!
+Content for ODSC West 2025!
 
 This package contains a taster for what we'll be releasing on causal discovery, inference and optimal actions.
 
